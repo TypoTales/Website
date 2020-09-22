@@ -1,0 +1,20 @@
+links:
+- title: About
+  url: /
+- title: Blog
+  url: /blog
+- title: Roadmap🡕
+  url: https://trello.com/b/rszGU2kr/chatventure-roadmap
+  
+bots:
+- title: To the Game🡕
+  url: https://t.me/ChatventureBot
+- title: Feedback Bot🡕
+  url: https://t.me/ChatventureFeedbackBot
+  
+legal:
+- title: Impressum
+  url: https://jacudibu.com/impressum
+- title: Datenschutz
+  url: https://jacudibu.com/datenschutz
+  

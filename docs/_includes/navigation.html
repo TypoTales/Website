@@ -1,0 +1,18 @@
+<header role="banner">
+      <!--<h1 class="logo">{{ site.title }}</h1>-->
+      <nav role="navigation">
+<ul>
+    {% for item in site.data.navigation.links %}
+      <li><a href="{{ item.url }}" {% if item.url == page.url %} class="active"{% endif %}>{{ item.title }}</a></li>
+    {% endfor %}
+    <li>&nbsp;&nbsp;</li>
+    {% for item in site.data.navigation.bots %}
+    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+    {% endfor %}
+    <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+    {% for item in site.data.navigation.legal %}
+    <li><a href="{{ item.url }}"><font size="1">{{ item.title }}</font></a></li>
+    {% endfor %}
+</ul>
+</nav>
+</header>
