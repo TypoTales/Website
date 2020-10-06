@@ -10,7 +10,7 @@ Build your own party, either by taming monsters or teaming up with other players
 
 *Currently in development.*
 <br>
-*Subscribe to our Announcement Channel on Telegram in order to be notified of upcoming beta tests and when the game launches: [https://t.me/chatventure](https://t.me/chatventure🡕)*
+*Subscribe to our Announcement Channel on Telegram in order to be notified of upcoming beta tests and when the game launches: [https://t.me/chatventure🡕](https://t.me/chatventure)*
 
 ### No classes
 In Chatventure, you can be whatever you want to - pick your skills by equipping your own combination of Weapon & Armor. Nobody will stop you from playing a tanky mage or a glass-cannon warrior, as long as you find or craft the right gear and have the level to wear it.
