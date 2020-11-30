@@ -20,7 +20,7 @@ While the second half of this playtest focused a lot on Guild Content, the next 
 From what I can tell by looking at the [roadmap🡕](http://roadmap.chatventure.net), the next playtest will start somewhere in between late November and early December.
 If during this playtest everything runs smooth, we'll reset and transition to a closed beta in the beginning of 2021 - with friend referrals serving as beta keys, where everyone will only be able to refer X people per week to ensure a somewhat slow and controlled growth. 
 
-A small heads-up: [Patreon Supporters🡕](https://www.patreon.com/Chatventure) will receive more invites, and a few days of early access to the playtests!
+A small heads-up: [Patreon Supporters🡕](http://patreon.typotales.com)  will receive more invites, and a few days of early access to the playtests!
 
 There might be more resets (or breaks) after this, depending on how hard I screw up things. 🙃
 

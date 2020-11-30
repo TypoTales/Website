@@ -23,5 +23,5 @@ Bond together in alliances in order to join an attack or defend each other. Or b
 ### Free to Play without Microtransactions
 You can play the game without paying a dime and there's no way to receive any ingame advantages by doing so.
 
-*If you want to support the game & help us keeping up with those pesky server fees, we will accept donations through [Patreon🡕](https://patreon.typotales.com) .<br>
+*If you want to support the game & help us keeping up with those pesky server fees, we will accept donations through [Patreon🡕](http://patreon.typotales.com) .<br>
 This will (obviously) only work in the long run if enough people are supporting the project, though as long as the server costs will be covered I'm going to call this a success.*
