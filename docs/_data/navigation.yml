@@ -4,13 +4,13 @@ links:
 - title: Blog
   url: /blog
 - title: Roadmap🡕
-  url: https://trello.com/b/rszGU2kr/chatventure-roadmap
+  url: https://roadmap.typotales.com/
   
 bots:
 - title: To the Game🡕
-  url: https://t.me/ChatventureBot
+  url: https://t.me/TypoTalesBot
 - title: Feedback🡕
-  url: https://t.me/ChatventureDev
+  url: https://t.me/TypoTalesDev
   
 legal:
 - title: Impressum

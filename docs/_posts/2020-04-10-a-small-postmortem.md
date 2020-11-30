@@ -8,7 +8,7 @@ summary: It is alive!
 The land is shrouded in darkness. Let's have a look at what happened and what will happen in the future in our very first (and probably way too long) developer blog post!
 
 #### A look back
-Development on Chatventure originally started in November 2018, although back then it was just a plaything for myself as I tried to get back into SQL for some Database Development, hoping I could use that in a new project at work. Out of curiosity on how a different game on Telegram works, I tried hooking up the application to a Telegram Bot and since then it slowly started to look more and more like a "game".
+Development on the game originally started in November 2018, although back then it was just a plaything for myself as I tried to get back into SQL for some Database Development, hoping I could use that in a new project at work. Out of curiosity on how a different game on Telegram works, I tried hooking up the application to a Telegram Bot and since then it slowly started to look more and more like a "game".
 
 It was a fun time, with a tiny hand full of people the pre-alpha started already a month later in late December, while adding in more of the features you'd usually expect from a "proper MMO", such as Parties, Guilds... up to the final Update on April's Fools day, titled ChatventureMon, which added a way to capture monsters in battle and force them to fight in a party along the player. That was in an attempt to make Single-Player Gameplay more worthwhile, which - even though this is technically an MMO - felt and still feels very needed.
 
