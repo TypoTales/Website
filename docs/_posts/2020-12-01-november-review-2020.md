@@ -1,6 +1,6 @@
 ---
 layout: post
-title: November Review - New Name, Same Game!
+title: November Development Review - New Name, Same Game!
 description: We got a new name for the game! And item tiering is finally done.
 summary: We got a new name for the game! And item tiering is finally done.
 ---
@@ -12,25 +12,25 @@ It's finally done! Items now come in various tiers. T0/T1 are the weakest and hi
 Every player will start with some T0 Novice Gear featuring simple skills. T1 with more choices and skills becomes available at level 5. T2 starts at level 10 and features the set of weapons you've already known and used in the last playtest. Afterwards tiers will advance every 10 levels, So T3 starts at Level 20.
 
 While I'm still working on making this all look and feel good inside the data editor, ingame it is already nice and dandy. Searching for items with /d now displays matching item groups (if there are any) and stuff that isn't assigned to them separately, like this:
-![Item Groups in /d]({{ '/assets/images/10/describeWithItemGroups.png' | relative_url }})
+<br>![Item Groups in /d]({{ '/assets/images/10/describeWithItemGroups.png' | relative_url }})
 
 Selecting an item group will then show the tiered items assigned to it:
-![/d of an Item Group]({{ '/assets/images/10/itemGroupDescriptions.png' | relative_url }})
+<br>![/d of an Item Group]({{ '/assets/images/10/itemGroupDescription.png' | relative_url }})
 
 ### Foraging Rework
 Can't just change how items work and leave foraging as it is, right?
 Foraging was one of the first things I've ever implemented, and I never touched it afterwards, therefore both the editor and the way it was implemented are old and ugly. I've changed the way how loot is distributed during adventures two times since then and wanted to adjust the way how foraging loot works accordingly.
 
 Here's a screenshot of our old Editor for Harvesting:
-![The old foraging loot editor]({{ '/assets/images/10/foragingLootBeforeRefactoring.png' | relative_url }})
+<br>![The old foraging loot editor]({{ '/assets/images/10/foragingLootViewBeforeRefactoring.png' | relative_url }})
 
 The aim of this rework is to also allow the selection of entire item tiers (so we don't need to have multiple data entries for Wood T3 and Wood T4 with the same probabilities and all) while also retaining the "old" implementation for untiered items (there might be some in the future, who knows?).
 
 As always, I wouldn't be in the right state of mind if it did not end up with a lot more fluff and features than I originally intended (a big <3 for feature creep, I guess!), so time & weather requirements are now no longer in a dropdown and can be individually enabled & disabled. While at it, I also added another category for very rare items which shouldn't be included in the normal loot calculations. More on those later!
-![The new foraging loot editor]({{ '/assets/images/10/foragingLootAfterRefactoring.png' | relative_url }})
+<br>![The new foraging loot editor]({{ '/assets/images/10/foragingLootViewAfterRefactoring.png' | relative_url }})
 
 Back ingame, you can now select the tiers you want to search for - though selecting multiple tiers will yield more items in total, so keeping your eyes open for multiple tiers might be worth it!
-![Foraging view with tiers]({{ '/assets/images/10/tieredForagingView.png' | relative_url }})
+<br>![Foraging view with tiers]({{ '/assets/images/10/tieredForagingView.png' | relative_url }})
 
 #### How the new foraging loot distribution works
 Earlier every item had a value, and we'd just randomly select an item from the list that'd still fit into the players "gathering budget". This budget would increase linearly with the players foraging level. During the last playtest this... ended up being a bit weird since high level players would end up finding way too many items. 🙃
