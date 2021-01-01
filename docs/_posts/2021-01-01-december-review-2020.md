@@ -31,7 +31,7 @@ Either way, we are way past that goal by now. Maybe making a living off of this 
 Up next is the very first Story/Introduction Adventure for new (and existing) players! After successfully completing it, players will be able to choose between one of three Companions which will be pretty hard (but not impossible) to find later on. While the companions are already finished, the adventure itself still needs some more writing.
 
 ![Starter Companions]({{ '/assets/images/11/starters.png' | relative_url }})
-Careful observers might notice something... "odd" about their ids. 🙃
+<br>Careful observers might notice something... "odd" about their ids. 🙃
 
 Besides that... there'll obviously be more adventures and new gear! While players can already forage for T3 Materials, T3 gear is a bit further away - need to finish the T2 content first. One (or two?) more adventures to go!
 
