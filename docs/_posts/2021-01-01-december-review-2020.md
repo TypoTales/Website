@@ -9,7 +9,7 @@ Oooh boy, what a month! Back when the playtest started a few bugs emerged that I
 
 ### Alpha Stats!
 
-![Some stats]({{ '/assets/images/11/202110101_stats.png' | relative_url }})
+![Some stats]({{ '/assets/images/11/20210101_stats.png' | relative_url }})
 
 In total, 74 players joined the playtest so far. Most of those are still active - only 4 haven't played the game over the last three days! At any time of the day you'll already find someone playing the game more or less actively. I'm really blown away that people seem to enjoy it that much! :)
 
