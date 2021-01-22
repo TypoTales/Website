@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Design Talk: Guild Content
+title: Design Talk – Guild Content
 description: Let's take a look ahead at upcoming guild features!
 summary: Let's take a look ahead at upcoming guild features!
 ---
