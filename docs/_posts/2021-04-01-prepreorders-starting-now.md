@@ -14,7 +14,7 @@ _\*Ahem*_ Either way, pre-preorder the game now, so you'll be able to play the g
 As an *exclusive* pre-preorder bonus, you'll receive this virtual roll of toilet paper in order to prepare yourself for the next lockdown: 🧻³
 <br><sub>**³**Ever Given they arrive at all.</sub>
 
-So what are you waiting for? Go to [Pre-preorder today🡕](https://bit.ly/3sysbYZ) and secure yourself that fancy roll of toilet paper *now*, before this **very** unique offer is *gone forever*!
+So what are you waiting for? Go [pre-preorder today🡕](https://bit.ly/3sysbYZ) and secure yourself that fancy roll of toilet paper *now*, before this **very** unique offer is *gone forever*!
 
 🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻🧻💩🧻🧻🧻🧻🧻🧻🧻🧻<br>
 Alternatively, just subscribe to our [Announcement Channel🡕](https://t.me/typotales) on Telegram to be notified once the next playtest starts, and/or [support us on Patreon🡕](http://patreon.typotales.com) so the game can stay free of shitty business practices and microtransactions – forever.<br>
