@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Preorder your right to preorder the game today!
+title: (April Fools) Preorder your right to preorder the game today!
 description: Don't miss out on a very special offer on a very special day!
 summary: Don't miss out on a very special offer on a very special day!
 ---
