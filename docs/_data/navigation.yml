@@ -5,13 +5,15 @@ links:
   url: /blog
 - title: Roadmap🡕
   url: http://roadmap.typotales.com/
+- title: Support Us!🡕
+  url: http://patreon.typotales.com/
   
 bots:
 - title: To the Game🡕
   url: https://t.me/TypoTalesBot
 - title: Feedback🡕
   url: https://t.me/TypoTalesDev
-  
+
 legal:
 - title: Impressum
   url: https://jacudibu.com/impressum
