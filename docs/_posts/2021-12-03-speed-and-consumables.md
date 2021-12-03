@@ -52,4 +52,4 @@ So, we now got consumable cooldowns, right? What if speed could also affect thos
 *None of the things mentioned here are set in stone yet, so things might further change before they are implemented. Let me hear your thoughts and ideas, so we can make this game as best as possible! :)*
 
 ## What's next?
-With the playtest ending this month, buckle up for a series of adventures leading up to the end of the world! Everyone who finishes them will receive a special title to display on their profile in the upcoming open beta, which will launch February or March 2022 and will have no more access restrictions. And if everything runs smoothly, there won't even be any more resets!
+With the playtest ending this month, buckle up for a series of story adventures leading up to the end of the world! Everyone who finishes these will receive a special title to display on their profile in the upcoming open beta, which will launch February or March 2022 and will have no more access restrictions. And if everything runs smoothly, there won't even be any more resets!
