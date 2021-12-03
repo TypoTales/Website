@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Design Discussion: Speed and Consumable Changes
+title: Design Discussion – Speed and Consumable Changes
 description: A first glimpse on what's going to change before the open beta starts.
 summary: A first glimpse on what's going to change before the open beta starts.
 ---
